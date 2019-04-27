@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://api.kuayet.com/www/ttt.ipa</string>
+            <string>http://app.kuayet.com/down/ttt5/ttt.ipa</string>
           </dict>
         </array>
         <key>metadata</key>
